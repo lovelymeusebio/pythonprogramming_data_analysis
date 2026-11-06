@@ -138,20 +138,3 @@ The Streamlit application (`app.py`) provides an intuitive dashboard for interac
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Streamlit Dashboard
-```bash
-streamlit run app.py
-```"# pythonprogramming_data_analysis" 
